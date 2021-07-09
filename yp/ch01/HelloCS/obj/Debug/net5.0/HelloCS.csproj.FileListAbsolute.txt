@@ -1,0 +1,16 @@
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+D:\Workspace\github\CS8_Core3\yp\ch01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
